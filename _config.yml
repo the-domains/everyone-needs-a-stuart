@@ -1,0 +1,43 @@
+typography_spectrum: 0.7857143
+color:
+  saturation: 0.3077336
+  brandStrength: 1
+  lightness: 0.4162191
+  brandColors:
+    - '#E9E4CF'
+    - '#A69780'
+    - '#36312D'
+    - '#95141A'
+    - '#EEEC03'
+  rhythmicContrast: 0.2196563
+github: true
+layout_spectrum: 0.2658432
+author:
+  name: Stuart Millinship
+  email: me@stuartm.net
+  url: www/everyoneneedsastuart.com
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/a605ba76-e6f7-42e0-a1b0-4ec8feb54b9c.png
+name: Everyone Needs A Stuart
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+title: '"Everyone Needs A Stuart"'
+content: []
+description: Technology Consultancy and support and support .
+purpose:
+  - type: contact
+    url: 'tel:07968777058'
+    label: Call 07968777058
+  - type: contact
+    url: 'mailto:me@stuartm.net'
+    label: Contact me
