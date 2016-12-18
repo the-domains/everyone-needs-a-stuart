@@ -12,12 +12,14 @@ color:
   rhythmicContrast: 0.2196563
 github: true
 layout_spectrum: 0.2658432
+analytics:
+  google: UA-89159147-1
 author:
   name: Stuart Millinship
   email: me@stuartm.net
   url: enas
 logo: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/a605ba76-e6f7-42e0-a1b0-4ec8feb54b9c.png
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/ef93df29-7d83-45cd-a251-a93dbde24f07.png
 name: Everyone Needs A Stuart
 collections:
   - index:
